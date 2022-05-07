@@ -1,0 +1,31 @@
+-Changelog for Starlounge Update 1.1.0-
+
+As this is a major update, a vareity fo changes has been implemented to improve the user experience!
+
+---Graphical changes and topend site changes---
+
+THE MUSIC HAS BEEN REMOVED you're welcome ;)
+
+Pages:
+A new page called videos has been added this provides a video which will always be the latest forktitty upload,
+and a button which will take you to a site that allows you to unblock a video
+
+Names:
+Premium games has been changed to stargames
+Basic games has been changed to Lite games
+
+UI:
+Redesigned lite games completely to have an app drawer look and feel rather than a list, buttons have been changed to be the image
+Color theme has been changed to a shade of truer blue and made a bit darker
+Some of the accent colors have also been changed, they have been made more vivid and stand out more
+A version text box has been added to the footer and will always display the version of starlounge you're viewing
+Header logo has been redesigned
+
+---Games changes---
+Over 25 new games of both stargames and litegames combined have been added to the website
+Removed minecraft as it no longer worked
+
+---Backend changes---
+added receiver implementation for a proxy connection which future multiplayer games can feed through (note: to protect the secrecy of future updates this code was removed prior to uploading the site to github
+
+
